@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date_debut": "date",
+    "Date_fin": "date",
+    "Salaire_brut_annuel": "number",
+    "Salaire_net_mensuel": "number",
+    "Impot_mensuel_estime": "number",
+    "Revenu_disponible": "number",
+    "Depenses_mensuelles": "number",
+    "Objectif_epargne": "number",
+    "Revenu_prevu": "number",
+    "depenses_prevues": "number",
+    "epargne_prevue": "number",
+    "epargne_reelle": "number",
+    "revenu_reel": "number",
+    "depenses_reelles": "number",
+    "objectif": "number",
+    "durée_mois": "number",
+    "Periode": "text"
+  }
+}
